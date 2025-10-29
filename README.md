@@ -20,7 +20,7 @@ This solution provides a **central command center** for trial managers, enabling
 
 ## Technologies Used
 
-  * **Data Sources:** CSV/Excel exports from EDC systems (e.g., Medidata Rave, Veeva), SQL databases.
+  * **Data Sources:** Self generated CSV files 
   * **ETL & Modeling:** Power Query (M Language) for data extraction, transformation, and loading, and DAX for complex calculations and data modeling within Power BI.
   * **Visualization Platform:** Microsoft Power BI Desktop for report development and Power BI Service for deployment and interactive dashboards.
   * **Analytics Concepts:** Funnel analysis, Key Performance Indicator (KPI) tracking, and risk scoring methodologies.
